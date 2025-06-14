@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Paulino Tamborini
 
-<!--
-**paulinotamborini/paulinotamborini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Data Analyst / Data Scientist con experiencia en proyectos reales aplicados a gestión pública, visualización de datos y machine learning. Me apasiona resolver problemas mediante el análisis de datos y transformar la información en decisiones accionables.
 
-Here are some ideas to get you started:
+🛠️ Herramientas: Python, SQL, Power BI, pandas, scikit-learn  
+📊 Proyectos: modelos predictivos, análisis de infraestructura urbana, dashboards interactivos  
+📍 Localidad: Rosario, Santa Fe, Argentina  
+🔍 En búsqueda activa de oportunidades laborales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto:  
+- [LinkedIn](https://www.linkedin.com/in/paulino-tamborini-41a60b272/)  
+- [GitHub](https://github.com/paulinotamborini)  
+- 📧 paulinotamborini044@gmail.com
