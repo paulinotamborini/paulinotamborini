@@ -1,6 +1,6 @@
 # 👋 Hola, soy Paulino Tamborini
 
-Soy Data Analyst / Data Scientist con experiencia en proyectos reales aplicados a gestión pública, visualización de datos y machine learning. Me apasiona resolver problemas mediante el análisis de datos y transformar la información en decisiones accionables.
+Soy Data Scientist con experiencia en proyectos reales aplicados a gestión pública, visualización de datos y machine learning. Me apasiona resolver problemas mediante el análisis de datos y transformar la información en decisiones accionables.
 
 🛠️ Herramientas: Python, SQL, Power BI, pandas, scikit-learn  
 📊 Proyectos: modelos predictivos, análisis de infraestructura urbana, dashboards interactivos  
