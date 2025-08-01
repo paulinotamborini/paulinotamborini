@@ -1,4 +1,4 @@
-# 👋 Hola, soy Paulino Tamborini
+# 👋 Hola, soy Paulino Tamborini -
 
 Soy Data Scientist con experiencia en proyectos reales aplicados a gestión pública, visualización de datos y machine learning. Me apasiona resolver problemas mediante el análisis de datos y transformar la información en decisiones accionables.
 
