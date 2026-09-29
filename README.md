@@ -84,8 +84,9 @@ El objetivo es avanzar posteriormente hacia datos astronómicos reales provenien
 
 ## 🎓 Formación
 
-**Licenciatura en Ciencia de Datos**  Universidad del Gran Rosario
-**Tecnicatura Universitaria en Ciencia de Datos**  Universidad del Gran Rosario
+-**Licenciatura en Ciencia de Datos** - Universidad del Gran Rosario
+
+-**Tecnicatura Universitaria en Ciencia de Datos** - Universidad del Gran Rosario
 
 ---
 
